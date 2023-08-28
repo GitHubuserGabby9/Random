@@ -1,0 +1,26 @@
+html, body
+{
+    height: 100%;
+    margin:0%;
+}
+
+body{
+    background-image: url("background.png");
+    background-size: cover;
+    background-position: center;
+}
+
+#img{
+    width: 400px;
+    opacity:100%;
+    padding: 10px;
+}
+
+
+.login_div
+{
+    margin:10%;
+    background: rgba(255,255,255,0.95);
+    float: none;border-radius: 15px;
+    padding: 20px;
+}
